@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-news",
+  "version": "1.0.0",
+  "description": "Nuxt firebase news app",
+  "author": "Nigel Wheeldon",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "nuxt": "^1.0.0",
+    "vue-material": "^1.0.0-beta-10.2"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1",
+    "node-sass": "^4.10.0",
+    "sass-loader": "^7.1.0"
+  }
+}
